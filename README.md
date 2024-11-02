@@ -37,4 +37,5 @@ Improved Risk Management: Auto lot size enables traders to limit potential losse
 Optimal Performance for EAs: Many EAs rely on auto lot sizing to function effectively. Auto lot size aligns with the EA’s trading logic, helping it adapt to changing account balances or market conditions. 
 
 4xpip Website: https://4xpip.com/
+
 Telegram: https://t.me/pip_4x
